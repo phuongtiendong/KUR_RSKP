@@ -43,7 +43,7 @@ function App() {
           </Col>
         </Row>
       </Container>
-      {/* <p>Book-Store Management</p> */}
+      {/* <p>Book Store Management</p> */}
       <Footer />
     </Router>
   );
